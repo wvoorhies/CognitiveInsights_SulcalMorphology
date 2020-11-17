@@ -14,6 +14,6 @@ Analysis pipeline and associated data for the manuscript Voorhies et al. (2020) 
   - ?_morphology.csv: All subject morphological data (depth, thickness)for each sulcal label in each hemisphere in long format for each sample.
   - ?_Depth.csv: Sulcal depth and behavioral data in wide format for each sample
   - ? thick.csv : cortical thickness and behavioral data in wide format for each sample
-  - Plots/  model predictions are saved as .csv files in this dir for later use/plotting in R etc. 
+  - Plots: model predictions formatted for visualization are saved as .csv files in this dir for later use/plotting in R etc. 
   
 
