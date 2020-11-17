@@ -2,7 +2,7 @@
 # $ conda create --name <env> --file <this file>
 
 # platform: osx-64
-_anaconda_depends==2019.03
+
 
 # pandas
 pandas==0.24.2
