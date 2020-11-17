@@ -1,7 +1,7 @@
 # Cognitive insights from evolutionarily new brain structures
-THis is the analysis pipeline and associated data for the manuscript Voorhies et al., (2020) *Cognitive insights from evolutionarily new brain structures*. The preprint can be accessed [here](https://www.biorxiv.org/content/10.1101/2020.11.07.372805v1).
+Analysis pipeline and associated data for the manuscript Voorhies et al. (2020) *Cognitive insights from evolutionarily new brain structures*. The preprint can be accessed [here](https://www.biorxiv.org/content/10.1101/2020.11.07.372805v1).
 
-  For questions or additional data requests email Willa Voorhies (wvoorhies@berkeley.edu)
+  For questions or additional data requests please email Willa Voorhies (wvoorhies@berkeley.edu)
   
   
 - Access the analysis  notebook
