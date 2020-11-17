@@ -25,7 +25,7 @@ scikit-learn==0.20.3
 # rpy2
 
 #rpy 2
-rpy2==2.9.4
+rpy2==2.9.4==py37r36h1d22016_0
 tzlocal==1.5.1
 
 
