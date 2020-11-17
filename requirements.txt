@@ -25,8 +25,13 @@ scikit-learn==0.20.3
 # rpy2
 
 #rpy 2
+r==3.6
+r-backports==1.1.4=
+r-base==3.6.0=hcb44179_0
 rpaths==0.13
 rpy2==2.9.4
+
+
 tzlocal==1.5.1
 
 
