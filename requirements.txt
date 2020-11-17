@@ -25,7 +25,7 @@ scikit-learn==0.20.3
 # rpy2
 
 #rpy 2
-r==3.6
+r-3.6-2019-09-24
 r-backports==1.1.4=
 r-base==3.6.0=hcb44179_0
 rpaths==0.13
