@@ -25,7 +25,7 @@ scikit-learn==0.20.3
 
 # rpy2
 rpy2==2.9.4
-r-tidyverse==1.2.1
+
 
 tzlocal==1.5.1
 
