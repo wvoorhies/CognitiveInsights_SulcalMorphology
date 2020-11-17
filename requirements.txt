@@ -23,9 +23,6 @@ scikit-learn==0.20.3
 
 
 # rpy2
-
-r-base=3.6
-rpaths==0.13
 rpy2==2.9.4
 
 
