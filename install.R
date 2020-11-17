@@ -1,1 +1,1 @@
-intall.packages(tidyverse)
+install.packages(tidyverse)
