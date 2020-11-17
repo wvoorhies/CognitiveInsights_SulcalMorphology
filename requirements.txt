@@ -2,7 +2,7 @@
 # $ conda create --name <env> --file <this file>
 
 # platform: osx-64
-#_anaconda_depends=2019.03=py37_0
+_anaconda_depends==2019.03
 
 # pandas
 pandas==0.24.2
@@ -23,13 +23,8 @@ scikit-learn==0.20.3
 
 
 # rpy2
-channels:
-  - conda-forge
-dependencies:
-  - r-base=3.6
-  - r-tidyverse
 
-r-base==3.6.0
+r-base=3.6
 rpaths==0.13
 rpy2==2.9.4
 
