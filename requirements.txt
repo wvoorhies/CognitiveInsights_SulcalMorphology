@@ -33,7 +33,7 @@ scikit-learn==0.20.3=py37h27c97d8_0
 
 #rpy 2
 r==3.6=r36_1004
-rpy2=2.9.4==py37r36h1d22016_0
+rpy2==2.9.4=py37r36h1d22016_0
 tzlocal==1.5.1=py37_0
 
 
