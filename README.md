@@ -10,7 +10,7 @@ Analysis pipeline and associated data for the manuscript Voorhies et al. (2020) 
   - requirements.txt will be used by binder to set up dependencies.
   - install.R installs necessary r-packages (tidyverse)
   - runtime.txt sets R environment. Needed for rpy2
-  *note*: initial environment build can be slow. This is only true for the initial build. 
+  - *note*: initial environment build can be slow. This is only true for the first time you launch binder. 
 - Associated data
   - ?_morphology.csv: All subject morphological data (depth, thickness)for each sulcal label in each hemisphere in long format for each sample.
   - ?_Depth.csv: Sulcal depth and behavioral data in wide format for each sample
