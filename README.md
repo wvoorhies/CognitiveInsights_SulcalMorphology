@@ -6,11 +6,11 @@ Analysis pipeline and associated data for the manuscript Voorhies et al. (2020) 
   
 - Access the analysis  notebook
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wvoorhies/CognitiveInsights_SulcalMorphology.git/HEAD)
-
+Binder will build the environment with necessary dependencies. No downloads are required.
   - requirements.txt will be used by binder to set up dependencies.
   - install.R installs necessary r-packages (tidyverse)
   - runtime.txt sets R environment. Needed for rpy2
-  - *note*: initial environment build can be slow. This is only true for the first time you launch binder. 
+  - *note*: initial environment build can be slow. Depending on your system it can take ~15 to setup. This is only true for the first time you launch binder. Binder will output logs during this process. 
 - Associated data
   - ?_morphology.csv: All subject morphological data (depth, thickness)for each sulcal label in each hemisphere in long format for each sample.
   - ?_Depth.csv: Sulcal depth and behavioral data in wide format for each sample
